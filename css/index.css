@@ -10,8 +10,7 @@
     flex-direction: column;    
     width : 1080px;
     height: 2160px;    
-    background-color: chartreuse;
-    
+   
 }
 .div_mae{
     display: inline-table;
@@ -50,11 +49,11 @@
     width: 540px;
 }
 .la_senha{
-    font-size: larger;
+    font-size: xx-large;
 }
 .me_password{
-    padding :5%;
-    font-size: larger;
+    padding :10%;
+    font-size: xx-large;
     border-radius: 7px;
     width : 300px;
     border : 1px rgb(214, 206, 206) solid
@@ -72,7 +71,6 @@
     text-align: right;
     height: fit-content;
     width : 100%;
-    background-color: aqua;
 }
 .btn{
     width :10%;
