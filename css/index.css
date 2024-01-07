@@ -1,0 +1,79 @@
+*{
+    padding: 0px;
+    margin : 0px;
+    border: none;
+    box-sizing: border-box;
+
+}
+.body{
+    display: flex;
+    flex-direction: column;    
+    width : 1080px;
+    height: 2160px;    
+    background-color: chartreuse;
+    
+}
+.div_mae{
+    display: inline-table;
+    flex-direction: column;
+    align-items: center;
+    width : 1080px;
+    height: 2060px;
+    background-color: rgb(250, 250, 235) ;
+}
+.t1_titulo{
+    width: 100%;
+    background-color: rgb(80, 150, 250) ;
+    height: 120px;
+  }
+.t2_titulox{
+    width: 100%;
+    position: relative;
+}
+.img_menu{
+    margin-top: 1%;
+}
+.img_tools{
+    margin-left: 80%;
+    margin-top: 1%;
+}
+.img_titulo{
+    width: 100%;
+    text-align: center;
+}
+.div_logo{
+    margin-top: 100px;
+    text-align: center;
+    align-content: center;
+}
+.img_meio{
+    width: 540px;
+}
+.la_senha{
+    font-size: larger;
+}
+.me_password{
+    padding :5%;
+    font-size: larger;
+    border-radius: 7px;
+    width : 300px;
+    border : 1px rgb(214, 206, 206) solid
+}
+.div_senha{
+    width :30%;
+    margin: 0 auto;
+}
+.div_senha1{
+    margin-top: 100px;
+    width: 30%;
+    text-align: left;
+}
+.div_botoes{
+    text-align: right;
+    height: fit-content;
+    width : 100%;
+    background-color: aqua;
+}
+.btn{
+    width :10%;
+}
